@@ -1,1 +1,0 @@
-# psica_test
